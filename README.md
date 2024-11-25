@@ -41,8 +41,8 @@ python app.py
 
 ### ER Diagram - 
 
-![](diagrams/ER.png)
+![](ER.png)
 
 ### Relational Schema - 
 
-![](diagrams/Relational_Schema.png)
+![](Relational_Schema.png)
